@@ -1,6 +1,19 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+{
+    "notes": [
+      {
+        "title": "Pick up food",
+        "text": "Gotta get groceries Monday 5/9/22 don't forget! :)",
+        "id": "1"
+      },
+      {
+        "title": "Baby supplies",
+        "text": "Check diaper supply; if needed, buy more on Amazon",
+        "id": "2"
+      },
+      {
+        "title": "Family meetup",
+        "text": "Parents wanna have dinner Sunday 5/29/22",
+        "id": "3"
+      }
+    ]
+  }
