@@ -38,3 +38,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Technologies Used
 Express.js, Node.js
+
+## Deployed
+https://infinite-oasis-22748.herokuapp.com/
